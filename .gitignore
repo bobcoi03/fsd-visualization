@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ML Model files
+*.pth
+*.weights
+*.h5
+*.pb
+*.onnx
+*.tflite
+*.pt
+
+# Data files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.csv
+*.json
+*.npy
+*.npz
+
+# Logs and databases
+*.log
+*.sqlite
+wandb/
+runs/
+logs/
+checkpoints/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
