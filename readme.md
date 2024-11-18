@@ -1,9 +1,12 @@
-An POOR attempt to rebuild the Tesla FSD visualization feature
+# Tesla FSD Visualization Clone
 
-- One Camera
-- Monocular Visual SLAM 
+An attempt to rebuild the Tesla Full Self-Driving visualization feature using computer vision techniques.
 
-The weekend project
+![Example Visualization](example.png)
 
+## Features
+- Single camera input
+- Monocular Visual SLAM for 3D mapping
+- Real-time lane detection
 
-
+## Quick Start
